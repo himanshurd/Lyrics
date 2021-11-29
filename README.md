@@ -1,11 +1,7 @@
 # Lyrics
 Lyrics
 
-<<<<<<< HEAD
-It's been a long day without you, my friend 🤪
-=======
 It's been a long day without you, my friend 😍
->>>>>>> e6083285d5d09b8d5620f7f0634e82f55abd6f93
 
 And I'll tell you all about it when I see you again and again
 
